@@ -1,8 +1,9 @@
+I love Gandaki University
 <html>
 <head> 
 <title> I love Gandaki University</title>
 </head>
-<body style="background-color: rgb(77, 61, 61);">
+<body style="background-color: black;">
 <h1 style="color: blue;"> Hello Friends !! </h1>
 <h2 style="color: blue;"> Let's talk about my University ! </h2>
 <p style="color: white;"> Gandaki University is located in the lap of the Fishtail and Annpurna Mountains and 
@@ -20,4 +21,3 @@
 </div>
 </body>
 </html>
-
