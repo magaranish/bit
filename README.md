@@ -1,7 +1,8 @@
+#I love Gandaki University
 <!DOCTYPE html>
 <html>
 <head> 
-<title style="color: blue;"> I love Gandaki University</title>
+<title> I love Gandaki University</title>
 </head>
 <body style="background-color: black;">
 <h1 style="color: blue;"> Hello Friends !! </h1>
