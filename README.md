@@ -1,8 +1,10 @@
 # bit
 <!DOCTYPE html>
 <html>
-<head style="color: purple;"> I love Gandaki University </head>
-<body style="background-color: black;">
+<head> 
+<title style="color: blue;"> I love Gandaki University</title>
+</head>
+<body>
 <h1 style="color: blue;"> Hello Friends !! </h1>
 <h2 style="color: blue;"> Let's talk about my University ! </h2>
 <p style="color: white;"> Gandaki University is located in the lap of the Fishtail and Annpurna Mountains and 
