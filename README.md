@@ -1,4 +1,4 @@
-I love Gandaki University
+#I love Gandaki University
 <html>
 <head> 
 <title> I love Gandaki University</title>
