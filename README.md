@@ -1,7 +1,7 @@
 # bit
 <!DOCTYPE html>
 <html>
-<head style="color: blue;"> I love Gandaki University </head>
+<head style="color: purple;"> I love Gandaki University </head>
 <body style="background-color: black;">
 <h1 style="color: blue;"> Hello Friends !! </h1>
 <h2 style="color: blue;"> Let's talk about my University ! </h2>
